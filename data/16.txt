@@ -1,0 +1,57 @@
+TEST-EINR
+BioMate 3S v4.000I 2K6N070003
+
+Kinetik                     0:11 13Aug13
+Testbez.                          ------
+Messmodus                     Absorption
+Wellenlnge                      436.0nm
+Ref.-Wellenlg.korrektur              Aus
+Delay-Zeit (min:sec)                0:00
+Intervallzeit (min:sek)             0:01
+Gesamtlaufzeit(hr:min:sec)       0:30:00
+Zeige Ergebnis                       Ein
+Faktor                             1.000
+Einheitn                               C
+Linearittswert                    0.005
+Probenposition            Einfachhalter-
+ID# (0=AUS)                            1
+Untere/Obere Grenze           -9999/9999
+Auto Speichern                       Aus
+
+
+HH:MM:SS   Abs    Delta   Lin
+--------  ------  ------  ---
+ 0:00:00   0.140  ------  ---
+ 0:00:01   0.154   0.014  ---
+ 0:00:02   0.166   0.012   L 
+ 0:00:03   0.178   0.012   L 
+ 0:00:04   0.189   0.011   L 
+ 0:00:05   0.199   0.010   L 
+ 0:00:06   0.208   0.009   L 
+ 0:00:07   0.216   0.008   L 
+ 0:00:08   0.222   0.006   L 
+ 0:00:09   0.228   0.006   L 
+ 0:00:10   0.232   0.004   L 
+ 0:00:12   0.236   0.004   L 
+ 0:00:13   0.238   0.002   L 
+ 0:00:14   0.240   0.002   L 
+ 0:00:15   0.241   0.001   L 
+ 0:00:16   0.242   0.001   L 
+ 0:00:17   0.243   0.001   L 
+ 0:00:18   0.243   0.000   L 
+ 0:00:19   0.243   0.000   L 
+ 0:00:20   0.244   0.001   L 
+ 0:00:21   0.244   0.000   L 
+ 0:00:22   0.244   0.000   L 
+ 0:00:23   0.244   0.000   L 
+ 0:00:24   0.244   0.000   L 
+ 0:00:25   0.245   0.001   L 
+ 0:00:26   0.246   0.001   L 
+ 0:00:27   0.246   0.000   L 
+ 0:00:28   0.245  -0.001   L 
+ 0:00:29   0.245   0.000   L 
+ 0:00:30   0.244  -0.001   L 
+ 0:00:31   0.244   0.000   L 
+
+       ID#  Abs/Min    Ergebnis   C
+         1   0.201      0.201     
